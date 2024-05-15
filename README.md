@@ -1,4 +1,3 @@
-Certainly! Here's a basic template for a `README.md` file for your npm package:
 
 ```markdown
 # npm_ehr_pkg
